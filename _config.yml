@@ -1,5 +1,5 @@
 title: "Jekabs's Blog"
-author: "Default Author Name"
+author: "Jekabs Gritans"
 description: "Something will be here eventually" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
@@ -22,9 +22,9 @@ theme: "minima"
 
 rss: rss
 
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
+# kramdown:
+  # syntax_highlighter_opts:
+  #   disable: true
     
 plugins:
   - jekyll-feed
